@@ -32,7 +32,7 @@ StartCoach; bütçe ve zamanına göre 4 haftalık kişisel plan oluşturmanı s
 
 ## Hakların
 Yerel verilerini uygulamayı kaldırarak silebilirsin. Sohbet içeriklerinin silinmesi ya da soruların için bize yaz:
-**youremail@example.com** (lütfen kendi e-postanla değiştir).
+**startcoachapp@gmail.com**
 
 ## İletişim
 - E-posta: **startcoachapp@gmail.com**
