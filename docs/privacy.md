@@ -8,12 +8,12 @@ StartCoach; bütçe ve zamanına göre 4 haftalık kişisel plan oluşturmanı s
 - **Hesap yok**: Uygulamada oturum açma yoktur.
 - **Yerel depolama**: Planların ve notların cihazında tutulur.
 - **İzinler**: Hatırlatıcı eklemek istersen iOS “Reminders” izni istenir.
-- **Yapay Zekâ**: Koç sohbetinde yazdığın metin, yanıt üretmek amacıyla sunucu ve **OpenAI API**’lerine iletilir.
+- **Yapay Zekâ**: Koç sohbetinde yazdığın metin, yanıt üretmek amacıyla sunucularımıza iletilir.
 - **Reklam/İzleme yok**: Üçüncü taraf reklam SDK’sı veya davranışsal izleyici kullanmayız.
 
 ## Toplanan Veriler
 - **Uygulama içeriği (cihazda)**: Planlar, görevler, notlar – yalnızca cihazında.
-- **Sohbet metni (sunucu/OpenAI)**: Koç yanıtı üretmek için gerekli minimum içerik.
+- **Sohbet metni (sunucu/Yapay Zeka)**: Koç yanıtı üretmek için gerekli minimum içerik.
 - **Tanılama logları**: Hata ayıklama için kısa süreli anonim loglar tutulabilir.
 
 ## İşleme Amaçları
